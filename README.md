@@ -42,6 +42,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 - [A Collection of Advices for Authoring a PhD or Academic Book](https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction)
 - [I Graduated From Harvard and MIT — Here's the Smartest Thing I Did on My Applications](http://www.businessinsider.com/make-college-application-stand-out-2016-12?IR=T&r=US&IR=T)
 - [So long, and thanks for the Ph.D.!](http://www.cs.unc.edu/~azuma/hitch4.html)
+- [ProfScout: Find Professors Most Likely to Reply to Research Cold Emails (Freemium)](https://profscout.com)
 
 ## Research, and the research career
 
