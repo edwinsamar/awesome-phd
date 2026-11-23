@@ -78,6 +78,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 - [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures)
 - [Phraseological assistant](https://www.phrasebank.manchester.ac.uk/)
 - [CiteMe](https://citeme.app/) - Free academic citation generator.
+- [DataCheck](https://datacheck.cc/en) - Rule-driven (non-AI) verification for scientific spreadsheets and Source Data tables with source-cell evidence (Web and Windows desktop).
 
 ### Research career (After PhD life)
 
