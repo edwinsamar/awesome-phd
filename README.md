@@ -78,6 +78,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 - [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures)
 - [Phraseological assistant](https://www.phrasebank.manchester.ac.uk/)
 - [CiteMe](https://citeme.app/) - Free academic citation generator.
+- [PerfectRefs](https://perfectrefs.com/en) - Catches made-up references against 1.4B+ records, fixes errors in one click, finds sources for claims, exports APA/MLA/IEEE/Vancouver.
 
 ### Research career (After PhD life)
 
